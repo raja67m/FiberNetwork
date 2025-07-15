@@ -59,7 +59,7 @@ a {
 
 h1, h2, h3, h4, h5, h6 {
   color: #1e1e1e;
-  margin-top: 0px;
+  margin-top: 16px;
   margin-bottom: 0px;
   font-weight: 700;
 }
@@ -429,7 +429,7 @@ Header Style
   border: transparent;
   letter-spacing: .25px;
 }
-
+/* 
 .header-area .main-nav .nav li:last-child a {
   background-color: #1e1e1e;
   color: #fff;
@@ -438,7 +438,7 @@ Header Style
   text-transform: none;
   border-radius: 20px;
   padding-left: 0px;
-}
+} */
 
 .header-area .main-nav .nav li:last-child a i {
   background-color: #f35525;
@@ -452,13 +452,13 @@ Header Style
   margin-left: -1px;
 }
 
-.header-area .main-nav .nav li:last-child:hover a {
+/* .header-area .main-nav .nav li:last-child:hover a {
   background-color: #1e1e1e;
-}
+} */
 
-.header-area .main-nav .nav li:last-child:hover a i {
+/* .header-area .main-nav .nav li:last-child:hover a i {
   color: #fff;
-}
+} */
 
 .header-area .main-nav .nav li:hover a {
   color: #f35525;
@@ -1093,7 +1093,7 @@ Best Deal Style
   font-size: 20px;
   color: #1e1e1e;
   font-weight: 700;
-  float: right;
+  /* float: right; */
   display: inline-block;
 }
 
@@ -1173,7 +1173,7 @@ Properties Style
   color: #f35525;
   margin-top: 6px;
   display: inline-block;
-  float: right;
+  /* float: right; */
   margin-top: 30px;
 }
 

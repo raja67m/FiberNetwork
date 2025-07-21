@@ -149,7 +149,7 @@ body {
 }
 
 .icon-button a:hover {
-  color: #f35525;
+  color: #3945ef;
 }
 
 .icon-button a:hover i {
@@ -314,7 +314,8 @@ Header Style
 }
 
 .sub-header ul.social-links li a:hover {
-  background-color: #f35525;
+  background-color: #3945ef;
+
 }
 
 .sub-header ul.info li {
@@ -429,19 +430,10 @@ Header Style
   border: transparent;
   letter-spacing: .25px;
 }
-/* 
-.header-area .main-nav .nav li:last-child a {
-  background-color: #1e1e1e;
-  color: #fff;
-  font-size: 14px;
-  font-weight: 400;
-  text-transform: none;
-  border-radius: 20px;
-  padding-left: 0px;
-} */
+
 
 .header-area .main-nav .nav li:last-child a i {
-  background-color: #f35525;
+  background-color: #3040f3;
   display: inline-block;
   width: 40px;
   height: 40px;
@@ -452,25 +444,19 @@ Header Style
   margin-left: -1px;
 }
 
-/* .header-area .main-nav .nav li:last-child:hover a {
-  background-color: #1e1e1e;
-} */
 
-/* .header-area .main-nav .nav li:last-child:hover a i {
-  color: #fff;
-} */
 
 .header-area .main-nav .nav li:hover a {
-  color: #f35525;
+  color: #3040f3;
 }
 
 .header-area .main-nav .nav li a.active {
-  color: #f35525;
+  color: #3040f3;
 }
 
 
 .background-header .main-nav .nav li a.active {
-  color: #f35525;
+  color: #3040f3;
 }
 
 .header-area .main-nav .menu-trigger {
@@ -933,7 +919,7 @@ Fun Facts Style
 }
 
 .fun-facts .counter {
-  background-color: #ffeee9;
+  background-color: #eaf2fb;
   position: relative;
   border-radius: 10px;
   width: 270px;
@@ -958,14 +944,14 @@ Fun Facts Style
 .fun-facts .counter h2 {
   margin-right: 25px;
   font-size: 40px;
-  color: #f35525;
+  color: #3945ef;
 }
 
 .fun-facts .counter:after {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-color: #f35525;
+  background-color: #3945ef;
   border-radius: 50%;
   content: '';
   right: -25px;

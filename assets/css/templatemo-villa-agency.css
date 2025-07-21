@@ -117,7 +117,7 @@ body {
 }
 
 .section-heading h6 {
-  color: #ee626b;
+  color: #3945ef;
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 700;
@@ -247,7 +247,7 @@ Pre-loader Style
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #f35525;
+  background: #3945ef;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
@@ -270,7 +270,7 @@ Pre-loader Style
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #f35525;
+  background: #3945ef;
   border-radius: 50%;
 }
 
@@ -1402,9 +1402,7 @@ Contact Page Style
 --------------------------------------------- 
 */
 
-.contact-page #map {
-  margin-top: 100px;
-}
+
 
 .contact-page .section-heading {
   margin-bottom: 40px;

@@ -707,7 +707,7 @@ Banner Style
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 220px 20% 320px 20%;
+  padding: 60px 10% 60px 10%;
   margin-top: 0px;
 }
 
@@ -721,6 +721,7 @@ Banner Style
 
 .main-banner .item-3 {
   background-image: url(../images/banner-03.jpg);
+  height:570px;
 }
 
 .main-banner .item span.category {

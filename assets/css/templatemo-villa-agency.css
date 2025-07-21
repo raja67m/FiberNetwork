@@ -170,7 +170,7 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #f35525;
+  background-color: #3945ef;
   color: #fff;
 }
 
@@ -970,26 +970,20 @@ Properties Style
   border-radius: 10px;
   padding: 30px;
   margin-bottom: 30px;
+text-align: center;
+
 }
 
 .properties .item img {
   border-radius: 10px;
+
 }
 
-.properties .item span.category {
-  background-color: #fbd9cf;
-  font-weight: 500;
-  border-radius: 5px;
-  font-size: 14px;
-  color: #1e1e1e;
-  padding: 5px 12px;
-  display: inline-block;
-  margin-top: 25px;
-}
+
 
 .properties .item h4 {
   font-size: 19px;
-  margin: 25px 0px;
+  margin: 25px;
 }
 
 .properties .item h4 a {
